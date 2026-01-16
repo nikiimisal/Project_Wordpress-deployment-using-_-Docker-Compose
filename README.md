@@ -16,6 +16,10 @@ It simplifies multi-container management using a single `docker-compose.yml` fil
 - Understand service-to-service communication<br>
 - Learn container auto-networking in Docker Compose
 
+<p align="center">
+  <img src="https://github.com/nikiimisal/Project_Wordpress-deployment-using-_-Docker-Compose/blob/main/img/docr_composer.png?raw=true" width="500" alt="Initialize Repository Screenshot">
+</p>
+
 ---
 
 ## Architecture Overview (Two-Tier)
@@ -64,6 +68,12 @@ cd /home/ec2-user
 mkdir wordpress
 cd wordpress
 ```
+
+
+<p align="center">
+  <img src="https://github.com/nikiimisal/Project_Wordpress-deployment-using-_-Docker-Compose/blob/main/img/Screenshot%202026-01-16%20071108.png?raw=true" width="500" alt="Initialize Repository Screenshot">
+</p>
+
 
 ---
 
@@ -130,6 +140,10 @@ Container wordpress-db-1  Started
 Container wordpress-app-1 Started
 ```
 
+<p align="center">
+  <img src="https://github.com/nikiimisal/Project_Wordpress-deployment-using-_-Docker-Compose/blob/main/img/Screenshot%202026-01-16%20071256.png?raw=true" width="500" alt="Initialize Repository Screenshot">
+</p>
+
 ---
 
 ## 🔍 Step 5: Verify Running Containers
@@ -163,6 +177,14 @@ show tables;
 
 This confirms **successful application–database integration**.
 
+
+
+<p align="center">
+  <img src="" width="500" alt="Initialize Repository Screenshot">
+</p>
+
+
+
 ---
 
 ##  🌍 Step 7: Access WordPress
@@ -174,6 +196,15 @@ http://<EC2-PUBLIC-IP>
 ```
 
 You will see the WordPress installation screen 🎉
+
+
+
+<p align="center">
+  <img src="https://github.com/nikiimisal/Project_Wordpress-deployment-using-_-Docker-Compose/blob/main/img/Screenshot%202026-01-16%20054155.png?raw=true" width="500" alt="Initialize Repository Screenshot">
+</p>
+
+
+
 
 ---
 
