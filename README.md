@@ -180,7 +180,7 @@ This confirms **successful application–database integration**.
 
 
 <p align="center">
-  <img src="" width="500" alt="Initialize Repository Screenshot">
+  <img src="https://github.com/nikiimisal/Project_Wordpress-deployment-using-_-Docker-Compose/blob/main/img/Screenshot%202026-01-16%20071330.png?raw=true" width="500" alt="Initialize Repository Screenshot">
 </p>
 
 
